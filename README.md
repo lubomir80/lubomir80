@@ -10,7 +10,9 @@
 </p>
 
 
-🔭 I’m currently working on project [Money-Guard](https://github.com/lubomir80/3.-Money-Guard)<br>👨‍💻 All of my projects are available at [Github](https://github.com/lubomir80?tab=repositories](https://github.com/lubomir80?tab=repositories)
+🔭 I’m currently working on project [Money-Guard](https://github.com/lubomir80/3.-Money-Guard)<br>👨‍💻 My projects  
+[Github][(https://github.com/lubomir80/3.-Money-Guard](https://github.com/lubomir80?tab=repositories](https://github.com/lubomir80?tab=repositories))
+
 
 
 ## 🌐 Socials:
