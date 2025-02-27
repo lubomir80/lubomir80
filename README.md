@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lubomir</h1>
 
 ## 💫 About Me:
-I'm a web developer from Poland, focused on creating user-friendly, interactive websites. Currently working with Next.js and MongoDB. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀
+I'm a web developer from Poland, focused on creating user-friendly, interactive websites. Currently working with <strong> Next.js and MongoDB </strong>. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀
 
 🔭 I’m currently working on Money-Guard project [Money-Guard](https://github.com/lubomir80/3.-Money-Guard)<br>👨‍💻 All of my projects are available at [https://github.com/lubomir80?tab=repositories](https://github.com/lubomir80?tab=repositories)
 
