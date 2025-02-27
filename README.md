@@ -5,12 +5,12 @@
 ## 💫 About Me:
 <p >
   I'm a web developer from Poland, focused on creating user-friendly, interactive websites. <br/> 
-  Currently working with <strong> Next.js</strong> and <strong> MongoDB </strong>.<br/> 
+  Currently working with <strong> Next.js</strong> and <strong> MongoDB</strong>.<br/> 
   I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀
 </p>
 
 
-🔭 I’m currently working on Money-Guard project [Money-Guard](https://github.com/lubomir80/3.-Money-Guard)<br>👨‍💻 All of my projects are available at [https://github.com/lubomir80?tab=repositories](https://github.com/lubomir80?tab=repositories)
+🔭 I’m currently working on project [Money-Guard](https://github.com/lubomir80/3.-Money-Guard)<br>👨‍💻 All of my projects are available at [Github](https://github.com/lubomir80?tab=repositories](https://github.com/lubomir80?tab=repositories)
 
 
 ## 🌐 Socials:
