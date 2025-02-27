@@ -11,7 +11,7 @@
 
 
 🔭 I’m currently working on project [Money-Guard](https://github.com/lubomir80/3.-Money-Guard)<br>👨‍💻 My projects  
-[Github][(https://github.com/lubomir80/3.-Money-Guard](https://github.com/lubomir80?tab=repositories](https://github.com/lubomir80?tab=repositories))
+[Github](https://github.com/lubomir80?tab=repositories)
 
 
 
